@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es"
-    xml:base="documento xml de github">
-    <id>documento xml de github</id>
+    xml:base="https://laura-luque.github.io/ATOM-LLB.github.io/proyecto_LLB.xml">
+    <id>https://laura-luque.github.io/ATOM-LLB.github.io/proyecto_LLB.xml</id>
     <title>Ciencias - Últimas noticias</title>
     <updated>2023-01-03T18:30:02Z</updated>
-    <link rel="self" href="documento xml de gihub"/>
+    <link rel="self" href="https://laura-luque.github.io/ATOM-LLB.github.io/proyecto_LLB.xml"/>
     <author>
         <name>Laura Luque Bravo</name>
         <email>a22lubrla@iesgrancapitan.org</email>
@@ -51,7 +51,7 @@
         <rights>sos@us.es</rights>
         <link href="https://www.agenciasinc.es/Noticias/Un-investigador-espanol-y-otro-britanico-resuelven-la-paradoja-de-Leonardo-da-Vinci" />
         <summary>Dos profesores la Universidad de Sevilla y la Universidad de Bristol consiguen explicar la centenaria incógnita sobre la inestabilidad en la trayectoria de una burbuja de aire cuando asciende en el agua.</summary>
-        <link rel="enclosure" type="html" title="Un investigador español y otro británico resuelven la paradoja de Leonardo da Vinci" href="https://www.lasexta.com/tecnologia-tecnoxplora/sinc/investigador-espanol-otro-britanico-resuelven-paradoja-leonardo-vinci_2023011963c95df7eb5eb600019170a5.html" length="1234"/>
+        <link rel="enclosure" type="aplicación/xhtml+html" title="Un investigador español y otro británico resuelven la paradoja de Leonardo da Vinci" href="https://www.lasexta.com/tecnologia-tecnoxplora/sinc/investigador-espanol-otro-britanico-resuelven-paradoja-leonardo-vinci_2023011963c95df7eb5eb600019170a5.html" length="1234"/>
     </entry>
 
 </feed>
