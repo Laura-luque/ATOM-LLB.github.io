@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es"
+    xml:base="documento xml de github">
+    <id>documento xml de github</id>
+    <title>Ciencias - Últimas noticias</title>
+    <updated>2023-01-03T18:30:02Z</updated>
+    <link rel="self" href="documento xml de gihub"/>
+    <author>
+        <name>Laura Luque Bravo</name>
+        <email>a22lubrla@iesgrancapitan.org</email>
+    </author>
+    <generator>GitHub</generator>
+
+    <category term="Noticias Ciencia"/>
+    <rights>Copyright (c) 2023, Laura Luque</rights>
+
+    <entry>
+        <id>https://www.agenciasinc.es/Noticias/Revelado-el-origen-de-una-de-las-estrellas-mas-antiguas-de-la-Via-Lactea</id>
+        <title>Revelado el origen de una de las estrellas más antiguas de la Vía Láctea</title>
+        <updated>2023-01-03T18:30:02Z</updated>
+        <rights>secadm@iac.es</rights>
+        <link href="https://www.agenciasinc.es/Noticias/Revelado-el-origen-de-una-de-las-estrellas-mas-antiguas-de-la-Via-Lactea" />
+        <summary>Con la ayuda del espectrógrafo ESPRESSO desde Chile, un equipo internacional de astrónomos ha confirmado el origen primigenio de la estrella SMSS1605-1443, formada hace 10.000 millones de años en nuestra galaxia. Se trata de una estrella doble, algo que se pensaba muy improbable en estrellas tan primitivas.</summary>
+        <link rel="enclosure" type="image/jpg" title="Revelado el origen de una de las estrellas más antiguas de la Vía Láctea" href="https://raw.githubusercontent.com/Laura-luque/ATOM-LLB.github.io/main/Revelado-el-origen-de-una-de-las-estrellas-mas-antiguas-de-la-Via-Lactea.jpg" length="1234"/>
+    </entry>
+
+    <entry>
+        <id>https://www.agenciasinc.es/Noticias/Descubierto-un-nuevo-sistema-CRISPR-autodestructor</id>
+        <title>Descubierto un nuevo sistema CRISPR autodestructor</title>
+        <updated>2023-01-03T18:30:02Z</updated>
+        <rights>redaccion@agenciasinc.es</rights>
+        <link href="https://www.agenciasinc.es/Noticias/Descubierto-un-nuevo-sistema-CRISPR-autodestructor" />
+        <summary>Una de las tijeras genéticas CRISPR más conocidas utiliza la proteína Cas9 para seccionar el genoma del virus invasor en zonas concretas. Ahora, investigadores estadounidenses y alemanes han identificado otra, llamada Cas12a2, que corta de forma indiscriminada las moléculas de ADN y ARN de la propia célula infectada hasta acabar con ella. El hallazgo podría aplicarse en el diagnóstico de enfermedades víricas.</summary>
+        <link rel="enclosure" xml:lang="en-us" title="" type="application/pdf" hreflang="en-us" href="https://github.com/Laura-luque/ATOM-LLB.github.io/blob/main/s41586-022-05560-w.pdf" length="1234"/>
+    </entry>
+
+    <entry>
+        <id>https://www.agenciasinc.es/Noticias/Investigadoras-del-CSIC-desarrollaran-una-tecnologia-para-crear-sangre-artificial</id>
+        <title>Investigadoras del CSIC desarrollarán una tecnología para crear sangre artificial</title>
+        <updated>2023-01-03T18:30:02Z</updated>
+        <rights>webmaster@icmab.es</rights>
+        <link href="https://www.agenciasinc.es/Noticias/Investigadoras-del-CSIC-desarrollaran-una-tecnologia-para-crear-sangre-artificial" />
+        <summary>El proyecto SynEry creará glóbulos rojos sintéticos que imiten las características de los naturales y que puedan fabricarse en el futuro de forma rentable.</summary>
+        <link rel="enclosure" type="image/png" title="Investigadoras del CSIC desarrollarán una tecnología para crear sangre artificial" href="https://raw.githubusercontent.com/Laura-luque/ATOM-LLB.github.io/main/Investigadoras-del-CSIC-desarrollaran-una-tecnologia-para-crear-sangre-artificial.png" length="1234"/>
+    </entry>
+
+    <entry>
+        <id>https://www.agenciasinc.es/Noticias/Un-investigador-espanol-y-otro-britanico-resuelven-la-paradoja-de-Leonardo-da-Vinci</id>
+        <title>Un investigador español y otro británico resuelven la paradoja de Leonardo da Vinci</title>
+        <updated>2023-01-03T18:30:02Z</updated>
+        <rights>sos@us.es</rights>
+        <link href="https://www.agenciasinc.es/Noticias/Un-investigador-espanol-y-otro-britanico-resuelven-la-paradoja-de-Leonardo-da-Vinci" />
+        <summary>Dos profesores la Universidad de Sevilla y la Universidad de Bristol consiguen explicar la centenaria incógnita sobre la inestabilidad en la trayectoria de una burbuja de aire cuando asciende en el agua.</summary>
+        <link rel="enclosure" type="html" title="Un investigador español y otro británico resuelven la paradoja de Leonardo da Vinci" href="https://www.lasexta.com/tecnologia-tecnoxplora/sinc/investigador-espanol-otro-britanico-resuelven-paradoja-leonardo-vinci_2023011963c95df7eb5eb600019170a5.html" length="1234"/>
+    </entry>
+
+</feed>
